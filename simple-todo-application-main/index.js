@@ -69,7 +69,7 @@ function onTaskTitleClicked(task) {
     
     task=after;
     
-
+    
     const currentValue = task.isDone;
     task.isDone = currentValue;
 
